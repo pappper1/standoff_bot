@@ -5,4 +5,4 @@ from .find_game import dp
 from .admin import dp
 
 
-__all__ = ['dp']
+__all__ = ["dp"]
